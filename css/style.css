@@ -92,13 +92,13 @@ body{
 }
 
 h1{
-	font-size:56px;
+	font-size:60px;
 	font-weight:300;
 	text-align:center;
 }
 
 h1 span{
-	font-size:32px;
+	font-size:40px;
 }
 
 .yellow{
@@ -107,10 +107,9 @@ h1 span{
 }
 
 p{
-	font-size:18px;
-	line-height:30px;
+	font-size:28px;
 	text-align:center;
-	font-weight:100;
+	font-weight:300;
 }
 
 form{
